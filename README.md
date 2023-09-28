@@ -6,4 +6,7 @@ A certificate is a digitally signed statement from one entity (person, company, 
 The keytool command also enables users to administer secret keys and passphrases used in symmetric encryption and decryption (DES).
 
 ### Screenshot of a given program
- ![Screenshot of a given program]([https://github.com/stojanovicljubinko/KeyToolGraphicInterface/blob/main/KeyToolGraphicInterface.png])
+![Diagram of a given program](https://github.com/stojanovicljubinko/KeyToolGraphicInterface/blob/main/KeyToolGraphicInterface.png)
+
+
+
